@@ -1,0 +1,1 @@
+<?php //we don't like direct access to this folder

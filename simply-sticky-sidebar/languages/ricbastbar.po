@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ricbastbar\n"
+"POT-Creation-Date: 2016-11-22 13:56+0100\n"
+"PO-Revision-Date: 2016-11-22 13:56+0100\n"
+"Last-Translator: damir <jahmirda@gmail.com>\n"
+"Language-Team: TFN <jahmirda@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../ricbastbar.php:50
+msgid "ricbastbar Settings"
+msgstr ""
+
+#: ../ricbastbar.php:75
+msgid "ricbastbar Options"
+msgstr ""
+
+#: ../ricbastbar.php:81
+msgid "Sticky Class"
+msgstr ""
+
+#: ../ricbastbar.php:88
+msgid "Container Class (parent div)"
+msgstr ""
+
+#: ../ricbastbar.php:96
+msgid "Additional top margin"
+msgstr ""
+
+#: ../ricbastbar.php:142
+msgid ""
+"Add  modern sticky sidebar to any theme.  <br />Change 'Sticky Class' to "
+"sidebar div class desired to be sticky"
+msgstr ""
+
+#: ../ricbastbar.php:151
+msgid "sidebar div class or id"
+msgstr ""
+
+#: ../ricbastbar.php:162
+msgid "container div class or id. Not needed for most themes."
+msgstr ""
+
+#: ../ricbastbar.php:176
+msgid "px."
+msgstr ""
+
+#~ msgid "mymessage2"
+#~ msgstr "Bye"
